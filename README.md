@@ -2,6 +2,13 @@
 
 Windows 定时电源工具：定时 **关机 / 重启 / 睡眠 / 休眠 / 注销 / 锁屏**，苹果风浅色界面，支持高 DPI 与窗口等比缩放。
 
+## 下载（免安装）
+
+直接下载单文件版：**[dingshiguanji.exe](https://github.com/Guflinn/dingshiguanji/releases/download/v1.0.0/dingshiguanji.exe)**（约 29.5 MB，Windows 10/11 x64，不需要 Python）
+
+全部版本见 [Releases](https://github.com/Guflinn/dingshiguanji/releases)。
+二进制不进仓库历史，因此仓库里只有源码。
+
 ## 功能
 
 - 两种定时方式：倒计时（时/分/秒）与指定时刻（如 23:30，已过则自动跨天）
